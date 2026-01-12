@@ -1,0 +1,11 @@
+{
+  "appId": "com.jarvis.ravi.sti",
+  "appName": "Jarvis L16 STI",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
